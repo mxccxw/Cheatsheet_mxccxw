@@ -1,0 +1,67 @@
+body {
+    margin: 0 auto;
+    background-color: rgba(245, 239, 230, 0.6);
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 0 20px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(120, 149, 178);
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.start {
+    background-color: rgb(245, 239, 230);
+    padding: 20px;
+    width: 100%;
+}
+
+.basic {
+    background-color: rgb(245, 239, 230);
+    padding: 20px;
+}
+
+.forms-input {
+    background-color: rgb(232, 223, 202);
+    padding: 20px;
+}
+
+.images {
+    background-color: rgb(232, 223, 202);
+    padding: 20px;
+}
+
+.links {
+    background-color: rgb(174, 189, 202);
+    padding: 20px;
+}
+
+.lists {
+    background-color: rgb(174, 189, 202);
+    padding: 20px;
+}
+
+.tables {
+    background-color: rgb(120, 149, 178);
+    padding: 20px;
+}
+
+.styles {
+    background-color: rgb(120, 149, 178);
+    padding: 20px;
+}
