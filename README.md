@@ -1,1 +1,1 @@
-# mxccxw.github.io This is a cheetsheet!
+This is a cheetsheet!
